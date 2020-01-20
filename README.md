@@ -1,2 +1,2 @@
 # c++ sample programs
-1. cache implementation.
+1. LRU Cache Implementation.
