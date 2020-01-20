@@ -1,2 +1,2 @@
-# c++ sample program
+# c++ sample programs
 1. cache implementation.
